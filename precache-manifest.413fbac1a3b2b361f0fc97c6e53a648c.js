@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0dd23bc13f0695ec1ea5515241a45496",
+    "revision": "624f5b1fcad379ff86761de6a2e8457c",
     "url": "/HPEventWeb/index.html"
   },
   {
-    "revision": "643505afd0a11603bc17",
+    "revision": "d575dd5f640dc20aea29",
     "url": "/HPEventWeb/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HPEventWeb/static/js/2.b7b7b6cc.chunk.js"
   },
   {
-    "revision": "643505afd0a11603bc17",
-    "url": "/HPEventWeb/static/js/main.4110c0ad.chunk.js"
+    "revision": "d575dd5f640dc20aea29",
+    "url": "/HPEventWeb/static/js/main.56b22925.chunk.js"
   },
   {
     "revision": "035cfc5ed0c9748b79b2",
