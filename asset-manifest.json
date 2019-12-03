@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HPEventWeb/static/css/main.b100e6da.chunk.css",
-    "main.js": "/HPEventWeb/static/js/main.b1f54d2b.chunk.js",
-    "main.js.map": "/HPEventWeb/static/js/main.b1f54d2b.chunk.js.map",
+    "main.js": "/HPEventWeb/static/js/main.f31bb3b1.chunk.js",
+    "main.js.map": "/HPEventWeb/static/js/main.f31bb3b1.chunk.js.map",
     "runtime-main.js": "/HPEventWeb/static/js/runtime-main.6666997b.js",
     "runtime-main.js.map": "/HPEventWeb/static/js/runtime-main.6666997b.js.map",
     "static/js/2.f483b78d.chunk.js": "/HPEventWeb/static/js/2.f483b78d.chunk.js",
     "static/js/2.f483b78d.chunk.js.map": "/HPEventWeb/static/js/2.f483b78d.chunk.js.map",
     "index.html": "/HPEventWeb/index.html",
-    "precache-manifest.00579b9e2e018c0e81ed070c319f6d86.js": "/HPEventWeb/precache-manifest.00579b9e2e018c0e81ed070c319f6d86.js",
+    "precache-manifest.92f10b5c8e2a1c1bb96a5a2ba986c76d.js": "/HPEventWeb/precache-manifest.92f10b5c8e2a1c1bb96a5a2ba986c76d.js",
     "service-worker.js": "/HPEventWeb/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/HPEventWeb/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/HPEventWeb/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6666997b.js",
     "static/js/2.f483b78d.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.b1f54d2b.chunk.js"
+    "static/js/main.f31bb3b1.chunk.js"
   ]
 }
